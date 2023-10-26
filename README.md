@@ -4,7 +4,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdulzy" alt="abdulzy" /></a> </p>
 
 - Check out my website at [Website](https://abdulzy.github.io)
-- 
+
 - 👨‍💻 All of my projects are available at [https://github.com/Abdulzy](https://github.com/Abdulzy)
 
 - 💬 Ask me about **projects**
