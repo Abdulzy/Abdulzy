@@ -3,13 +3,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdulzy" alt="abdulzy" /></a> </p>
 
+- Check out my website at [Website](https://abdulzy.github.io)
+- 
 - 👨‍💻 All of my projects are available at [https://github.com/Abdulzy](https://github.com/Abdulzy)
 
 - 💬 Ask me about **projects**
 
 - 📫 How to reach me **abdul.isegen@gmail.com**
 
-- ⚡ Fun fact **Jimmy neutron is one of my inspiration for wanting to be a software engineer**
+- ⚡ Fun fact **Jimmy Neutron is one of my inspirations for wanting to be a software engineer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
